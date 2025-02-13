@@ -1,0 +1,24 @@
+{
+  "name": "domaincheck",
+  "version": "0.0.1",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "description": "returns nameserver, website, and MX information",
+  "keywords": [
+    "domain",
+    "dns"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tezosweb/domaincheck.git"
+  },
+  "homepage": "https://github.com/tezosweb/domaincheck#readme",
+  "bugs": {
+    "url": "https://github.com/tezosweb/domaincheck/issues"
+  },
+  "author": "Craig Buckler",
+  "license": "MIT"
+}

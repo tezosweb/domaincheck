@@ -1,0 +1,290 @@
+13tezos.com,,,,,,
+applefarm.xyz,DomainSure,cname.vercel-dns.com.,,,,
+emergents.cards,DomainSure,,,,,
+emergents.com,DomainSure,,,,,
+emergentstcg.com,DomainSure,,,,,
+emergentstcg.net,DomainSure,,,,,
+emergentstcg.org,DomainSure,,,,,
+etherlink.ai,DomainSure,cname.vercel-dns.com.,,,,
+etherlink.at,DomainSure,cname.vercel-dns.com.,,,,
+etherlink.build,DomainSure,cname.vercel-dns.com.,,,,
+etherlink.ca,DomainSure,cname.vercel-dns.com.,,,,
+etherlink.cc,DomainSure,cname.vercel-dns.com.,,,,
+etherlink.cloud,DomainSure,cname.vercel-dns.com.,,,,
+etherlink.com,DomainSure,cname.vercel-dns.com.,Google,,,
+etherlink.fr,DomainSure,cname.vercel-dns.com.,,,,
+etherlink.info,DomainSure,cname.vercel-dns.com.,,,,
+etherlink.link,DomainSure,cname.vercel-dns.com.,,,,
+etherlink.network,DomainSure,cname.vercel-dns.com.,,,,
+etherlink.run,DomainSure,cname.vercel-dns.com.,,,,
+etherlink.space,DomainSure,cname.vercel-dns.com.,,,,
+etherlink.tech,DomainSure,cname.vercel-dns.com.,,,,
+etherlink.to,DomainSure,cname.vercel-dns.com.,,,,
+etherlinkbridge.com,DomainSure,cname.vercel-dns.com.,,,,
+extz.io,,,,,,
+fi-code.com,Cloudflare,,,,,
+getveri.xyz,Hetzner,,,,,
+hellointerpop.io,DomainSure,www.interpop.io.,,"v=spf1 include:_spf.srv.cat ~all",,
+interpop.io,EasyDNS,die7d26er2apf.cloudfront.net.,Google,"v=spf1 include:_spf.google.com ~all",DKIM,
+interpopcomics.com,DomainSure,,,,,
+ligolang.dev,DomainSure,,,,,
+ligolang.org,Google,,Google,"v=spf1 include:_spf.google.com ~all",,
+manchesterunitedcollectibles.com,,,,,,
+manucollectibles.com,,,,,,
+minterpop.com,DomainSure,,,,,
+pizzainfra.org,DomainSure,,,,,
+playwithbrio.com,AWS Route53,,,,,
+s-al.foundation,DomainSure,,,,,
+self-amendingledger.foundation,DomainSure,,,,,
+selfamendingledger.foundation,DomainSure,,,,,
+simplestaking.com,Wix,cdn1.wixdns.net.,Google,,,
+siriustoken.io,AWS Route53,18.244.164.61,Google,,,
+sl.foundation,DomainSure,,,,,
+smartpy.dev,Cloudflare,104.21.71.128,Cloudflare,"v=spf1 include:_spf.mx.cloudflare.net ~all",,
+smartpy.io,Google,35.241.18.155,Cloudflare,"v=spf1 include:_spf.mx.cloudflare.net ~all",,
+smartpy.org,DomainSure,,,,,
+t3tezos.com,,,,,,
+taqueria.dev,,,,,,
+taqueria.io,Cloudflare,104.21.13.192,Cloudflare,"v=spf1 include:_spf.mx.cloudflare.net ~all",,
+taqueria.tools,,,,,,
+testnets.xyz,,,,,,
+tezbox.cc,DomainSure,,,,,
+tezbox.co,DomainSure,,,,,
+tezbox.com,AWS Route53,d1f4zwdznp19e5.cloudfront.net.,Google,"v=spf1 include:_spf.google.com ~all",,
+tezbox.me,DomainSure,,,,,
+tezbox.online,DomainSure,,,,,
+tezdev.io,,,,,,
+tezedge.com,Cloudflare,,,,,
+tezgear.com,DomainSure,,Google,,,
+tezos-k8s.io,DomainSure,185.199.111.153,,,,
+tezos-kiln.net,DomainSure,35.185.44.232,,,,
+tezos.academy,Tucows,,,,,"v=DMARC1; p=none"
+tezos.accountant,NameCheap,parkingpage.namecheap.com.,NameCheap,"v=spf1 include:spf.efwd.registrar-servers.com ~all",,
+tezos.accountants,Tucows,,,,,"v=DMARC1; p=none"
+tezos.af,,,,,,
+tezos.ag,,,,,,
+tezos.agency,Tucows,,,,,"v=DMARC1; p=none"
+tezos.apartments,Tucows,,,,,"v=DMARC1; p=none"
+tezos.asia,NameCheap,parkingpage.namecheap.com.,NameCheap,"v=spf1 include:spf.efwd.registrar-servers.com ~all",,
+tezos.associates,Tucows,,,,,"v=DMARC1; p=none"
+tezos.attorney,Tucows,,,,,"v=DMARC1; p=none"
+tezos.bid,NameCheap,parkingpage.namecheap.com.,NameCheap,"v=spf1 include:spf.efwd.registrar-servers.com ~all",,
+tezos.bio,Tucows,,,,,"v=DMARC1; p=none"
+tezos.biz,NameCheap,parkingpage.namecheap.com.,NameCheap,"v=spf1 include:spf.efwd.registrar-servers.com ~all",,
+tezos.build,Tucows,,,,,"v=DMARC1; p=none"
+tezos.builders,Tucows,,,,,"v=DMARC1; p=none"
+tezos.ca,Dynadot,77980.bodis.com.,Dynadot,,,
+tezos.cab,Tucows,,,,,"v=DMARC1; p=none"
+tezos.camp,Tucows,,,,,"v=DMARC1; p=none"
+tezos.career,DomainSure,,,,,
+tezos.careers,Tucows,,,,,"v=DMARC1; p=none"
+tezos.cash,NameCheap,parkingpage.namecheap.com.,NameCheap,"v=spf1 include:spf.efwd.registrar-servers.com ~all",,
+tezos.cc,,,,,,
+tezos.ch,AWS Route53,13.224.222.7,Google,"v=spf1 include:_spf.google.com ~all",,"v=DMARC1; p=reject; rua=mailto:contact@tezos.ch"
+tezos.charity,Cloudflare,,,,,
+tezos.claims,Tucows,,,,,"v=DMARC1; p=none"
+tezos.club,NameCheap,parkingpage.namecheap.com.,NameCheap,"v=spf1 include:spf.efwd.registrar-servers.com ~all",,
+tezos.cn,Cloudflare,,,"v=spf1 -all",,
+tezos.co,NameCheap,parkingpage.namecheap.com.,NameCheap,"v=spf1 include:spf.efwd.registrar-servers.com ~all",,
+tezos.co.uk,NameCheap,parkingpage.namecheap.com.,NameCheap,"v=spf1 include:spf.efwd.registrar-servers.com ~all",,
+tezos.coach,Tucows,,,,,"v=DMARC1; p=none"
+tezos.codes,Tucows,,,,,"v=DMARC1; p=none"
+tezos.college,Tucows,,,,,"v=DMARC1; p=none"
+tezos.com,AWS Route53,dmz1taydog733.cloudfront.net.,Google,"v=spf1 ip4:34.239.36.222 ip4:54.84.18.86 ip4:184.72.189.255 ip4:54.205.74.210 include:_spf.google.com include:amazonses.com ~all",DKIM,"v=DMARC1; p=reject; rua=mailto:dmarc@tezos.com"
+tezos.com.cn,DomainSure,,,,,
+tezos.computer,Tucows,,,,,"v=DMARC1; p=none"
+tezos.condos,Tucows,,,,,"v=DMARC1; p=none"
+tezos.construction,Tucows,,,,,"v=DMARC1; p=none"
+tezos.consulting,Tucows,,,,,"v=DMARC1; p=none"
+tezos.contractors,Tucows,,,,,"v=DMARC1; p=none"
+tezos.country,Tucows,,,,,"v=DMARC1; p=none"
+tezos.courses,Tucows,,,,,"v=DMARC1; p=none"
+tezos.credit,Tucows,,,,,"v=DMARC1; p=none"
+tezos.cricket,NameCheap,parkingpage.namecheap.com.,NameCheap,"v=spf1 include:spf.efwd.registrar-servers.com ~all",,
+tezos.cx,Tucows,,,,,"v=DMARC1; p=none"
+tezos.date,NameCheap,parkingpage.namecheap.com.,NameCheap,"v=spf1 include:spf.efwd.registrar-servers.com ~all",,
+tezos.day,,,,,,
+tezos.de,NameCheap,parkingpage.namecheap.com.,,,,
+tezos.deals,Tucows,,,,,"v=DMARC1; p=none"
+tezos.delivery,Tucows,,,,,"v=DMARC1; p=none"
+tezos.digital,Tucows,,,,,"v=DMARC1; p=none"
+tezos.direct,Tucows,,,,,"v=DMARC1; p=none"
+tezos.discount,Tucows,,,,,"v=DMARC1; p=none"
+tezos.download,NameCheap,parkingpage.namecheap.com.,NameCheap,"v=spf1 include:spf.efwd.registrar-servers.com ~all",,
+tezos.earth,Tucows,,,,,"v=DMARC1; p=none"
+tezos.education,Tucows,,,,,"v=DMARC1; p=none"
+tezos.energy,Tucows,,,,,"v=DMARC1; p=none"
+tezos.engineer,Tucows,,,,,"v=DMARC1; p=none"
+tezos.enterprises,Tucows,,,,,"v=DMARC1; p=none"
+tezos.equipment,Tucows,,,,,"v=DMARC1; p=none"
+tezos.expert,Tucows,,,,,"v=DMARC1; p=none"
+tezos.express,Tucows,,,,,"v=DMARC1; p=none"
+tezos.fail,Tucows,,,,,"v=DMARC1; p=none"
+tezos.faith,NameCheap,parkingpage.namecheap.com.,NameCheap,"v=spf1 include:spf.efwd.registrar-servers.com ~all",,
+tezos.family,Tucows,,,,,"v=DMARC1; p=none"
+tezos.fan,Tucows,,,,,"v=DMARC1; p=none"
+tezos.fans,Key-Systems GmbH,94.23.162.163,,,,
+tezos.financial,DomainSure,tezos.financial.,EasyDNS,,,
+tezos.fitness,Tucows,,,,,"v=DMARC1; p=none"
+tezos.flights,DomainSure,tezos.flights.,EasyDNS,,,
+tezos.forsale,Tucows,,,,,"v=DMARC1; p=none"
+tezos.foundation,AWS Route53,d9tnr7wuk23ur.cloudfront.net.,Google,"v=spf1 include:mailgun.org include:_spf.google.com include:amazonses.com +mx +a -all",DKIM,"v=DMARC1; p=reject; rua=mailto:dmarc@tezos.com"
+tezos.fr,,,,,,
+tezos.gallery,Tucows,,,,,"v=DMARC1; p=none"
+tezos.games,,,,,,
+tezos.gg,Tucows,,,,,"v=DMARC1; p=none"
+tezos.gift,Tucows,,,,,"v=DMARC1; p=none"
+tezos.gifts,Tucows,,,,,"v=DMARC1; p=none"
+tezos.gives,Tucows,,,,,"v=DMARC1; p=none"
+tezos.gl,Tucows,,,,,"v=DMARC1; p=none"
+tezos.graphics,Tucows,,,,,"v=DMARC1; p=none"
+tezos.gratis,Tucows,,,,,"v=DMARC1; p=none"
+tezos.green,DomainSure,tezos.green.,EasyDNS,,,
+tezos.gripe,Tucows,,,,,"v=DMARC1; p=none"
+tezos.health,DomainSure,tezos.health.,EasyDNS,,,
+tezos.healthcare,Tucows,,,,,"v=DMARC1; p=none"
+tezos.holdings,DomainSure,tezos.holdings.,EasyDNS,,,
+tezos.holiday,Tucows,,,,,"v=DMARC1; p=none"
+tezos.hospital,DomainSure,tezos.hospital.,EasyDNS,,,
+tezos.host,NameCheap,parkingpage.namecheap.com.,NameCheap,"v=spf1 include:spf.efwd.registrar-servers.com ~all",,
+tezos.house,Tucows,,,,,"v=DMARC1; p=none"
+tezos.how,Tucows,,,,,"v=DMARC1; p=none"
+tezos.in,,,,,,
+tezos.industries,DomainSure,tezos.industries.,EasyDNS,,,
+tezos.info,NameCheap,parkingpage.namecheap.com.,NameCheap,"v=spf1 include:spf.efwd.registrar-servers.com ~all",,
+tezos.ink,Tucows,,,,,"v=DMARC1; p=none"
+tezos.institute,DomainSure,tezos.institute.,EasyDNS,,,
+tezos.insure,DomainSure,tezos.insure.,EasyDNS,,,
+tezos.io,NameCheap,parkingpage.namecheap.com.,NameCheap,"v=spf1 include:spf.efwd.registrar-servers.com ~all",,
+tezos.lawyer,Tucows,,,,,"v=DMARC1; p=none"
+tezos.lease,Tucows,,,,,"v=DMARC1; p=none"
+tezos.legal,Tucows,,,,,"v=DMARC1; p=none"
+tezos.limited,Tucows,,,,,"v=DMARC1; p=none"
+tezos.loan,NameCheap,parkingpage.namecheap.com.,NameCheap,"v=spf1 include:spf.efwd.registrar-servers.com ~all",,
+tezos.loans,Tucows,,,,,"v=DMARC1; p=none"
+tezos.management,Tucows,,,,,"v=DMARC1; p=none"
+tezos.market,,,,,,
+tezos.marketing,Tucows,,,,,"v=DMARC1; p=none"
+tezos.me,NameCheap,parkingpage.namecheap.com.,NameCheap,"v=spf1 include:spf.efwd.registrar-servers.com ~all",,
+tezos.money,NameCheap,parkingpage.namecheap.com.,NameCheap,"v=spf1 include:spf.efwd.registrar-servers.com ~all",,
+tezos.mortgage,Tucows,,,,,"v=DMARC1; p=none"
+tezos.name,Tucows,,,,,"v=DMARC1; p=none"
+tezos.net,AWS Route53,99.84.9.73,,"v=spf1 -all",,"v=DMARC1; p=reject; rua=mailto:; ruf=mailto:; fo=1"
+tezos.net.cn,DomainSure,,,,,
+tezos.network,NameCheap,parkingpage.namecheap.com.,NameCheap,"v=spf1 include:spf.efwd.registrar-servers.com ~all",,
+tezos.ninja,Tucows,,,,,"v=DMARC1; p=none"
+tezos.online,NameCheap,parkingpage.namecheap.com.,NameCheap,"v=spf1 include:spf.efwd.registrar-servers.com ~all",,
+tezos.org,AWS Route53,99.84.9.73,,"v=spf1 -all",,"v=DMARC1; p=reject; rua=mailto:; ruf=mailto:; fo=1"
+tezos.organic,Tucows,,,,,"v=DMARC1; p=none"
+tezos.partners,Tucows,,,,,"v=DMARC1; p=none"
+tezos.parts,Tucows,,,,,"v=DMARC1; p=none"
+tezos.party,NameCheap,parkingpage.namecheap.com.,NameCheap,"v=spf1 include:spf.efwd.registrar-servers.com ~all",,
+tezos.pe,Tucows,,,,,"v=DMARC1; p=none"
+tezos.pet,Tucows,,,,,"v=DMARC1; p=none"
+tezos.photo,Tucows,,,,,"v=DMARC1; p=none"
+tezos.photography,Tucows,,,,,"v=DMARC1; p=none"
+tezos.photos,Tucows,,,,,"v=DMARC1; p=none"
+tezos.pics,Tucows,,,,,"v=DMARC1; p=none"
+tezos.pictures,Tucows,,,,,"v=DMARC1; p=none"
+tezos.place,,,,,,
+tezos.press,NameCheap,parkingpage.namecheap.com.,NameCheap,"v=spf1 include:spf.efwd.registrar-servers.com ~all",,
+tezos.productions,DomainSure,tezos.productions.,EasyDNS,,,
+tezos.promo,DomainSure,tezos.promo.,EasyDNS,,,
+tezos.properties,Tucows,,,,,"v=DMARC1; p=none"
+tezos.pw,NameCheap,parkingpage.namecheap.com.,NameCheap,"v=spf1 include:spf.efwd.registrar-servers.com ~all",,
+tezos.qa,Tucows,,,,,"v=DMARC1; p=none"
+tezos.racing,NameCheap,parkingpage.namecheap.com.,NameCheap,"v=spf1 include:spf.efwd.registrar-servers.com ~all",,
+tezos.rent,Tucows,,,,,"v=DMARC1; p=none"
+tezos.rentals,Tucows,,,,,"v=DMARC1; p=none"
+tezos.repair,DomainSure,tezos.repair.,EasyDNS,,,
+tezos.review,NameCheap,parkingpage.namecheap.com.,NameCheap,"v=spf1 include:spf.efwd.registrar-servers.com ~all",,
+tezos.reviews,Tucows,,,,,"v=DMARC1; p=none"
+tezos.sale,Tucows,,,,,"v=DMARC1; p=none"
+tezos.school,DomainSure,tezos.school.,EasyDNS,,,
+tezos.science,NameCheap,parkingpage.namecheap.com.,NameCheap,"v=spf1 include:spf.efwd.registrar-servers.com ~all",,
+tezos.show,DomainSure,tezos.show.,EasyDNS,,,
+tezos.site,NameCheap,parkingpage.namecheap.com.,NameCheap,"v=spf1 include:spf.efwd.registrar-servers.com ~all",,
+tezos.solar,DomainSure,tezos.solar.,EasyDNS,,,
+tezos.space,NameCheap,parkingpage.namecheap.com.,NameCheap,"v=spf1 include:spf.efwd.registrar-servers.com ~all",,
+tezos.stream,NameCheap,parkingpage.namecheap.com.,NameCheap,"v=spf1 include:spf.efwd.registrar-servers.com ~all",,
+tezos.studio,DomainSure,tezos.studio.,EasyDNS,,,
+tezos.study,Tucows,,,,,"v=DMARC1; p=none"
+tezos.style,Tucows,,,,,"v=DMARC1; p=none"
+tezos.supplies,DomainSure,tezos.supplies.,EasyDNS,,,
+tezos.supply,Tucows,,,,,"v=DMARC1; p=none"
+tezos.tax,Tucows,,,,,"v=DMARC1; p=none"
+tezos.taxi,Tucows,,,,,"v=DMARC1; p=none"
+tezos.team,DomainSure,tezos.team.,EasyDNS,,,
+tezos.tech,NameCheap,50.56.49.233,NameCheap,,,
+tezos.tel,Tucows,,,,,"v=DMARC1; p=none"
+tezos.tickets,DomainSure,,,,,
+tezos.top,NameCheap,parkingpage.namecheap.com.,NameCheap,"v=spf1 include:spf.efwd.registrar-servers.com ~all",,
+tezos.tours,DomainSure,tezos.tours.,EasyDNS,,,
+tezos.trade,NameCheap,parkingpage.namecheap.com.,NameCheap,"v=spf1 include:spf.efwd.registrar-servers.com ~all",,
+tezos.trading,DomainSure,,,,,
+tezos.training,Tucows,,,,,"v=DMARC1; p=none"
+tezos.tube,DomainSure,tezos.tube.,EasyDNS,,,
+tezos.tv,NameCheap,parkingpage.namecheap.com.,NameCheap,"v=spf1 include:spf.efwd.registrar-servers.com ~all",,
+tezos.university,Tucows,,,,,"v=DMARC1; p=none"
+tezos.vacations,Tucows,,,,,"v=DMARC1; p=none"
+tezos.vc,Tucows,,,,,"v=DMARC1; p=none"
+tezos.video,DomainSure,tezos.video.,EasyDNS,,,
+tezos.vision,Tucows,,,,,"v=DMARC1; p=none"
+tezos.voyage,DomainSure,tezos.voyage.,EasyDNS,,,
+tezos.webcam,,,,,,
+tezos.website,NameCheap,parkingpage.namecheap.com.,NameCheap,"v=spf1 include:spf.efwd.registrar-servers.com ~all",,
+tezos.win,NameCheap,parkingpage.namecheap.com.,NameCheap,"v=spf1 include:spf.efwd.registrar-servers.com ~all",,
+tezos.works,Tucows,,,,,"v=DMARC1; p=none"
+tezosclassic.com,,,,,,
+tezosfoundation.ch,AWS Route53,18.245.253.20,Hostpoint AG,,,
+tezosfoundation.com,NameCheap,parkingpage.namecheap.com.,NameCheap,"v=spf1 include:spf.efwd.registrar-servers.com ~all",,
+tezosgulf.com,AWS Route53,d9tnr7wuk23ur.cloudfront.net.,Tucows,"v=spf1 +a +mx +ip4:35.209.246.20 include:_spf.mailspamprotection.com ~all",,
+tezostaqueria.com,DomainSure,,,,,
+tezrpc.me,Cloudflare,tezrpc.me.,EasyDNS,,,
+teztest.net,,,,,,
+teztnets.com,Google,,,,,
+tf.foundation,Key-Systems GmbH,94.23.162.163,,,,
+tfstaging.link,AWS Route53,,,,,
+trophyunlocked.xyz,Hetzner,,,,,
+tz-connect.berlin,DomainSure,,,,,
+tz-connect.ch,EPAG Domainservices GmbH,,,,,
+tz-connect.com,DomainSure,,,,,
+tz-connect.de,DomainSure,,,,,
+tz-connect.fr,DomainSure,,,,,
+tz-connect.me,DomainSure,,,,,
+tz-connect.org,DomainSure,,,,,
+ꜩ.cc,;; ;; Question section mismatch: got xn--928a.cc/NS/IN,;; ;; Question section mismatch: got www.xn--928a.cc/A/IN,;; ;; Question section mismatch: got xn--928a.cc/MX/IN,,,
+tz1staketezxmwsptebren1wqfz1px9t9tmt.com,DomainSure,url-fwd.easydns.com.,,,,
+tzapac.com,DomainSure,d1t49gnj5vehyg.cloudfront.net.,Google,"v=spf1 include:hubspotemail.net include:_spf.google.com ~all",DKIM,"v=DMARC1; p=reject; rua=mailto:dmarc@tezos.com"
+tzarchive.net,DomainSure,,,,,
+tzboot.net,AWS Route53,,,,,
+tzconnect.berlin,Hetzner,,,,,
+tzconnect.ch,EPAG Domainservices GmbH,,,,,
+tzconnect.com,AWS Route53,108.156.46.36,Google,"v=spf1 include:_spf.google.com -all",DKIM,"v=DMARC1; p=reject; rua=mailto:dmarc@tezos.com"
+tzconnect.de,EasyDNS,tzconnect.de.,EasyDNS,"v=spf1 -all",,
+tzconnect.fr,DomainSure,,,,,
+tzconnect.io,,,,,,
+tzgo.io,,,,,,
+tzgulf.com,DomainSure,,Google,"v=spf1 include:_spf.google.com -all",DKIM,"v=DMARC1; p=reject; rua=mailto:dmarc@tezos.com"
+tzgulfstaging.link,AWS Route53,,,,,
+tzinit.net,Google,,,,,
+tzinit.org,Google,,,,,
+tzpro.io,Google,,,,,
+tzstaging.com,AWS Route53,,,,,
+tzstats.com,Google,34.120.188.195,,,,
+tzxag.io,DomainSure,,Google,,,
+tzxau.io,DomainSure,,,,,
+tzxpt.io,DomainSure,,,,,
+tzzec.io,EPAG Domainservices GmbH,,,,,
+uranium.market,DomainSure,,,,,
+velos.network,DomainSure,velos.network.,,,,
+visit-tezos.com,,,,,,
+visit-tezos.info,,,,,,
+visit-tezos.net,,,,,,
+visit-tezos.org,,,,,,
+wrappedtz.io,EPAG Domainservices GmbH,,,,,
+xn--sris-x6b3h.com,,,,,,
+xtz.asia,Tucows,,,,,"v=DMARC1; p=none"
+xtz.cash,Tucows,,,,,"v=DMARC1; p=none"
+xtz.guide,Tucows,,,,,"v=DMARC1; p=none"
+xtz.zone,,,,,,
