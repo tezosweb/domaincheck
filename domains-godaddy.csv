@@ -1,0 +1,11 @@
+applefarmers.club,NameCheap,cname.vercel-dns.com.,NameCheap,"v=spf1 include:spf.efwd.registrar-servers.com ~all",,
+geturanium.io,NameCheap,cname.vercel-dns.com.,NameCheap,"v=spf1 include:spf.efwd.registrar-servers.com ~all",,
+metals.io,Cloudflare,cname.vercel-dns.com.,,,,
+u308.io,Wild West Domains,u308.io.,,,,
+u3o8.io,Wild West Domains,,,,,
+uranium-digital.ai,Wild West Domains,uranium-digital.ai.,,,,
+uranium-digital.co,Wild West Domains,uranium-digital.co.,,,,
+uranium-digital.io,Wild West Domains,uranium-digital.io.,,,,
+uranium.io,Wild West Domains,uranium.io.,0 uranium-io.mail.protection.outlook.com.,"v=spf1 include:secureserver.net -all",,"v=DMARC1; p=none"
+uraniumdigital.ai,Wild West Domains,uraniumdigital.ai.,,,,
+uraniumdigital.co.uk,Wild West Domains,uraniumdigital.co.uk.,,,,
